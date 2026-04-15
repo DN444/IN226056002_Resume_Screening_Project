@@ -1,1 +1,28 @@
+Job Title: Data Scientist
+Location: Bangalore, India
 
+We are looking for a Data Scientist with 3+ years of experience building machine learning solutions for business problems.
+
+Required skills:
+- Python
+- SQL
+- Machine Learning
+- Statistics
+- Data Visualization
+- Feature Engineering
+- Model Evaluation
+
+Preferred tools and platforms:
+- Pandas
+- scikit-learn
+- TensorFlow or PyTorch
+- Jupyter
+- Git
+- AWS
+- Tableau or Power BI
+
+Responsibilities:
+- Build predictive models and experiment pipelines
+- Analyze large datasets
+- Communicate insights to business stakeholders
+- Deploy and monitor ML solutions in production

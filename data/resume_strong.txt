@@ -1,0 +1,17 @@
+Aarav Mehta
+Senior Data Scientist
+
+Summary:
+4.5 years of experience in data science and machine learning for e-commerce and fintech domains.
+
+Skills:
+Python, SQL, Machine Learning, Statistics, Feature Engineering, Model Evaluation, Data Visualization
+
+Tools:
+Pandas, scikit-learn, TensorFlow, Jupyter, Git, AWS, Tableau
+
+Experience:
+- Built churn prediction and recommendation models using Python, scikit-learn, and TensorFlow.
+- Designed feature engineering pipelines and model evaluation workflows.
+- Created dashboards in Tableau and communicated insights to product and business teams.
+- Deployed ML pipelines on AWS.

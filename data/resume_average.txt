@@ -1,0 +1,17 @@
+Neha Reddy
+Data Analyst / Junior ML Practitioner
+
+Summary:
+2.5 years of experience in analytics and applied machine learning projects.
+
+Skills:
+Python, SQL, Statistics, Data Visualization, basic Machine Learning
+
+Tools:
+Pandas, Jupyter, Git, Power BI
+
+Experience:
+- Built analytics reports using SQL and Python.
+- Performed customer segmentation and simple regression models in notebooks.
+- Presented insights to business users using Power BI.
+- Limited exposure to feature engineering and model evaluation.
