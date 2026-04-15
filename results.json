@@ -1,0 +1,242 @@
+{
+  "strong": {
+    "extraction": {
+      "candidate_name": "Aarav Mehta",
+      "skills": [
+        "Python",
+        "SQL",
+        "Machine Learning",
+        "Statistics",
+        "Feature Engineering",
+        "Model Evaluation",
+        "Data Visualization"
+      ],
+      "tools": [
+        "Pandas",
+        "scikit-learn",
+        "TensorFlow",
+        "Jupyter",
+        "Git",
+        "AWS",
+        "Tableau"
+      ],
+      "experience_years": 4.5,
+      "experience_summary": "4.5 years of experience in data science and machine learning for e-commerce and fintech domains",
+      "evidence": [
+        "Built churn prediction and recommendation models using Python, scikit-learn, and TensorFlow",
+        "Designed feature engineering pipelines and model evaluation workflows",
+        "Created dashboards in Tableau and communicated insights to product and business teams",
+        "Deployed ML pipelines on AWS"
+      ]
+    },
+    "matching": {
+      "matched_skills": [
+        "Python",
+        "SQL",
+        "Machine Learning",
+        "Statistics",
+        "Feature Engineering",
+        "Model Evaluation",
+        "Data Visualization"
+      ],
+      "missing_skills": [],
+      "matched_tools": [
+        "Pandas",
+        "scikit-learn",
+        "TensorFlow",
+        "Jupyter",
+        "Git",
+        "AWS",
+        "Tableau"
+      ],
+      "missing_tools": [
+        "PyTorch",
+        "Power BI"
+      ],
+      "experience_match": "match",
+      "strengths": [
+        "Building predictive models",
+        "Analyzing large datasets",
+        "Communicating insights to business stakeholders",
+        "Deploying and monitoring ML solutions in production"
+      ],
+      "gaps": []
+    },
+    "scoring": {
+      "fit_score": 50,
+      "score_breakdown": {
+        "skills": 25,
+        "tools": 10,
+        "experience": 10,
+        "domain_alignment": 5
+      },
+      "rationale": [
+        "Safe fallback scoring due to parsing error"
+      ]
+    },
+    "explanation": {
+      "summary": "Aarav Mehta has a strong background in data science and machine learning, with 4.5 years of experience and skills matching the job requirements, but the fit score is 50 due to a parsing error",
+      "why_this_score": [
+        "Safe fallback scoring due to parsing error",
+        "Matched all required skills",
+        "Matched most preferred tools and platforms"
+      ],
+      "hiring_recommendation": "Consider for interview"
+    }
+  },
+  "average": {
+    "extraction": {
+      "candidate_name": "Neha Reddy",
+      "skills": [
+        "Python",
+        "SQL",
+        "Statistics",
+        "Data Visualization",
+        "basic Machine Learning"
+      ],
+      "tools": [
+        "Pandas",
+        "Jupyter",
+        "Git",
+        "Power BI"
+      ],
+      "experience_years": 2.5,
+      "experience_summary": "2.5 years of experience in analytics and applied machine learning projects",
+      "evidence": [
+        "2.5 years of experience in analytics and applied machine learning projects",
+        "Built analytics reports using SQL and Python",
+        "Performed customer segmentation and simple regression models in notebooks",
+        "Presented insights to business users using Power BI"
+      ]
+    },
+    "matching": {
+      "matched_skills": [
+        "Python",
+        "SQL",
+        "Statistics",
+        "Data Visualization",
+        "Machine Learning"
+      ],
+      "missing_skills": [
+        "Feature Engineering",
+        "Model Evaluation"
+      ],
+      "matched_tools": [
+        "Pandas",
+        "Jupyter",
+        "Git",
+        "Power BI"
+      ],
+      "missing_tools": [
+        "scikit-learn",
+        "TensorFlow or PyTorch",
+        "AWS",
+        "Tableau"
+      ],
+      "experience_match": "less than 3 years",
+      "strengths": [
+        "analytics and applied machine learning projects",
+        "building analytics reports",
+        "customer segmentation and simple regression models",
+        "presenting insights to business users"
+      ],
+      "gaps": [
+        "experience"
+      ]
+    },
+    "scoring": {
+      "fit_score": 50,
+      "score_breakdown": {
+        "skills": 25,
+        "tools": 10,
+        "experience": 10,
+        "domain_alignment": 5
+      },
+      "rationale": [
+        "Safe fallback scoring due to parsing error"
+      ]
+    },
+    "explanation": {
+      "summary": "Neha Reddy has 2.5 years of experience in analytics and applied machine learning projects, with skills in Python, SQL, Statistics, Data Visualization, and basic Machine Learning, but lacks experience in Feature Engineering and Model Evaluation, and has gaps in experience and some preferred tools.",
+      "why_this_score": [
+        "Less than 3 years of experience",
+        "Missing skills: Feature Engineering, Model Evaluation",
+        "Missing tools: scikit-learn, TensorFlow or PyTorch, AWS, Tableau"
+      ],
+      "hiring_recommendation": "Not Recommended"
+    }
+  },
+  "weak": {
+    "extraction": {
+      "candidate_name": "Rohit Sharma",
+      "skills": [
+        "Excel",
+        "Communication",
+        "Reporting"
+      ],
+      "tools": [
+        "MS Excel",
+        "PowerPoint"
+      ],
+      "experience_years": 1.0,
+      "experience_summary": "operations reporting and team coordination",
+      "evidence": [
+        "1 year of experience in operations reporting and team coordination.",
+        "Prepared weekly reports for internal teams.",
+        "Coordinated operations tasks and maintained trackers."
+      ]
+    },
+    "matching": {
+      "matched_skills": [],
+      "missing_skills": [
+        "Python",
+        "SQL",
+        "Machine Learning",
+        "Statistics",
+        "Data Visualization",
+        "Feature Engineering",
+        "Model Evaluation"
+      ],
+      "matched_tools": [],
+      "missing_tools": [
+        "Pandas",
+        "scikit-learn",
+        "TensorFlow or PyTorch",
+        "Jupyter",
+        "Git",
+        "AWS",
+        "Tableau or Power BI"
+      ],
+      "experience_match": "less than 3 years",
+      "strengths": [
+        "Communication",
+        "Reporting"
+      ],
+      "gaps": [
+        "lack of technical skills",
+        "inadequate experience"
+      ]
+    },
+    "scoring": {
+      "fit_score": 50,
+      "score_breakdown": {
+        "skills": 25,
+        "tools": 10,
+        "experience": 10,
+        "domain_alignment": 5
+      },
+      "rationale": [
+        "Safe fallback scoring due to parsing error"
+      ]
+    },
+    "explanation": {
+      "summary": "The candidate, Rohit Sharma, has a fit score of 50 due to a lack of technical skills and inadequate experience for the Data Scientist role.",
+      "why_this_score": [
+        "less than 3 years of experience",
+        "missing required skills: Python, SQL, Machine Learning, Statistics, Data Visualization, Feature Engineering, Model Evaluation",
+        "missing preferred tools: Pandas, scikit-learn, TensorFlow or PyTorch, Jupyter, Git, AWS, Tableau or Power BI"
+      ],
+      "hiring_recommendation": "Not Recommended"
+    }
+  }
+}
